@@ -1,2 +1,1 @@
-# references-in-arabic
-مراجع مقترحة للغة العربية -  أ ب ت
+#### Please visit the wiki for more info https://github.com/muhamed-hassan/references-in-arabic/wiki
