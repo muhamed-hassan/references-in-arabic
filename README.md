@@ -6,7 +6,7 @@
 
 ***
 
-[List of countries and territories where Arabic is an official language](https://en.wikipedia.org/wiki/List_of_countries_and_territories_where_Arabic_is_an_official_language)
+[List of countries and territories where **Arabic** is an `official language`](https://en.wikipedia.org/wiki/List_of_countries_and_territories_where_Arabic_is_an_official_language)
 
 ***
 ***
